@@ -1,5 +1,5 @@
 This notebook will be used to make an overview of the venues of the 4 biggest cities in Thessaly (central Greece) 
-and a short compare between them
+and a short comparison between them
 
 The venues are taken form the Foursquare API
  
