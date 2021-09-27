@@ -9,3 +9,6 @@ and open it on Chrome Browser
 
 nbviewer does not display 2 dataframes side by side.
 To view them such way, you have to download the Jupyter Notebook and view it on your browser
+
+
+![maps](https://user-images.githubusercontent.com/58136436/134963846-fe216ab1-4340-43d4-89b4-8234599e0d30.PNG)
